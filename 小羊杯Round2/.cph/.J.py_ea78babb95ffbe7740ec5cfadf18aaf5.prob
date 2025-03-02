@@ -1,0 +1,1 @@
+{"name":"Local: J","url":"d:\\Code\\Algorithm\\NowCoder\\小羊杯Round2\\J.py","tests":[{"id":1740896470943,"input":"4\n1 7\n2 9\n4 4\n1 1","output":"5\n7\n3\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Algorithm\\NowCoder\\小羊杯Round2\\J.py","group":"local","local":true}
