@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Code\\Algorithm\\NowCoder\\牛客小白月赛111\\C.py","tests":[{"id":1741351805377,"input":"6\nkano\nkano\nfun\nkano\nniuke\nkano","output":"3"},{"id":1741351812224,"input":"3\naa\naa\nb","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Algorithm\\NowCoder\\牛客小白月赛111\\C.py","group":"local","local":true}

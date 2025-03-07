@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"d:\\Code\\Algorithm\\NowCoder\\牛客小白月赛111\\A.py","tests":[{"id":1741349306180,"input":"3 2 1\n1 2 3","output":"Yes"},{"id":1741349321278,"input":"2 2 2\n2 2 3","output":"No"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Algorithm\\NowCoder\\牛客小白月赛111\\A.py","group":"local","local":true}
