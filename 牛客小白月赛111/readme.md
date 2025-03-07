@@ -1,1 +1,1 @@
-- ![链接](https://ac.nowcoder.com/acm/contest/102742?from=acm_calendar)
+[竞赛链接](https://ac.nowcoder.com/acm/contest/102742?from=acm_calendar)
