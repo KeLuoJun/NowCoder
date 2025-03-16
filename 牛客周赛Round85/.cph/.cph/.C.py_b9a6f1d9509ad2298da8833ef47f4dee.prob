@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Code\\Algorithm\\NowCoder\\牛客周赛Round85\\.cph\\C.py","tests":[{"id":1742124423799,"input":"3\n10101\n111000\n10011010110","output":"Yes\nYes\nNo"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\Algorithm\\NowCoder\\牛客周赛Round85\\.cph\\C.py","group":"local","local":true}
