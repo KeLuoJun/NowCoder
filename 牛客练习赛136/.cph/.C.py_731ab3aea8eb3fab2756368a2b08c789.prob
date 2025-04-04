@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Code\\NowCoder\\牛客练习赛136\\C.py","tests":[{"id":1743757748917,"input":"3 1\naba\n1 1 1","output":"aaba"},{"id":1743757758721,"input":"7 10\naabacaa\n3 3 3 2 1 2 1","output":"aaaabaacaa"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Code\\NowCoder\\牛客练习赛136\\C.py","group":"local","local":true}
